@@ -176,7 +176,8 @@ st.markdown("## Password verification")
 val = st.text_input("Enter password")
 col1, col2 = st.columns(2)
 password = "abcd"
-if val==password:
+enter = st.button("Enter")
+if val==password and enter==True:
     # Medicine detatils
     with col1:
         st.markdown("## Get medicine details")
