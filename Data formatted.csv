@@ -1,0 +1,363 @@
+,Unnamed: 0,Medicines,Company
+0,0.0,Laxadi Guggul Tab.,ASTHANG
+1,1.0,Kutaj Ghanvati Tab.,ASTHANG
+2,2.0,Shanth Vati Tab.,ASTHANG
+3,3.0,Sutshekhar Ras Tab.,ASTHANG
+4,4.0,Bhungaraj Ghanvati Tab.,ASTHANG
+5,5.0,Sanjeevani Vati Tab.,ASTHANG
+6,6.0,Haridra Tab.,ASTHANG
+7,7.0,Skin All Tab.,ASTHANG
+8,8.0,Trishila Tab.,ASTHANG
+9,9.0,Artho Oil,ASTHANG
+10,10.0,Anu Tailan,ASTHANG
+11,11.0,Indigo Powder,ASTHANG
+12,12.0,Shatavari Tab.,ASTHANG
+13,13.0,ASHT BEAL Avaleh,ASTHANG
+14,14.0,Isabgol Churna (small),ASTHANG
+15,15.0,Isabgol Churna (big),ASTHANG
+16,16.0,Lovanbhaskar Churna,ASTHANG
+17,17.0,Dhatri Rasayan,ASTHANG
+18,18.0,Hingvashtak Churna,ASTHANG
+19,19.0,Ashwagandha Churna,ASTHANG
+20,20.0,Shatavari Churna,ASTHANG
+21,21.0,Kouchbej Churna,ASTHANG
+22,22.0,Punarnava Churna,ASTHANG
+23,23.0,Safed Musali Churna,ASTHANG
+24,24.0,Erandel Tailam,ASTHANG
+25,25.0,Phal Ghritam,ASTHANG
+26,26.0,Aragwadhadi Kashay,ASTHANG
+27,27.0,Ashtprash Chyawanovleha,ASTHANG
+28,28.0,Bharangyadi Kashay,ASTHANG
+29,29.0,Yograj Guggul Tab.,ASTHANG
+30,30.0,Sarpogandha Ghanvati Tab.,ASTHANG
+31,31.0,Kanchanar Guggul Tab.,ASTHANG
+32,32.0,Probhakar Vati Tab.,ASTHANG
+33,33.0,Mrityunjoya Rasa Tab.,ASTHANG
+34,34.0,Ekangoveer Rasa Tab.,ASTHANG
+35,35.0,Sonva Manjishthadi Ghan Tab.,ASTHANG
+36,36.0,Kirathktadi Yog Tab.,ASTHANG
+37,37.0,Daily Calm Tab.,ASTHANG
+38,38.0,Gandhak Rasayan Tab.,ASTHANG
+39,39.0,Trifala Guggul Tab.,ASTHANG
+40,40.0,Laxmivilas Ras Tab.,ASTHANG
+41,41.0,Shashvi night ointment,SHASHVI REMEDIES
+42,42.0,Stressni cap.,SHASHVI REMEDIES
+43,43.0,Raw honey,SHASHVI REMEDIES
+44,44.0,Madhur Virechan Vati Tab.,SHASHVI REMEDIES
+45,45.0,Parcid Tab.,SHASHVI REMEDIES
+46,46.0,Chemo - X,SHASHVI REMEDIES
+47,47.0,Lukor X - SF syrup,SHASHVI REMEDIES
+48,48.0,Multivit Syrup,SHASHVI REMEDIES
+49,49.0,Malish ointment,SHASHVI REMEDIES
+50,50.0,Motapa Nashak Tab.,SHASHVI REMEDIES
+51,51.0,Atrisor Cap.,ATRIMED
+52,52.0,Viscovas cap.,ATRIMED
+53,53.0,Atrivit cap.,ATRIMED
+54,54.0,Rhinarm cap.,ATRIMED
+55,55.0,Spazex cap.,ATRIMED
+56,56.0,M Creoz cap.,ATRIMED
+57,57.0,Ostygen cap.,ATRIMED
+58,58.0,Prunilol cap.,ATRIMED
+59,59.0,Rilanx cap.,ATRIMED
+60,60.0,Acilars cap.,ATRIMED
+61,61.0,Retrive cap.,ATRIMED
+62,62.0,Ferberry Cap.,ATRIMED
+63,63.0,Vyvuz cap.,ATRIMED
+64,64.0,Atrisor Ointment,ATRIMED
+65,65.0,Aclear ointment,ATRIMED
+66,66.0,Prunilol ointment,ATRIMED
+67,67.0,Anti Hyperpigmentation Cream,ATRIMED
+68,68.0,Atrisor Soop,ATRIMED
+69,69.0,Manjishtadi choornam,ATRIMED
+70,70.0,Rasnerantadi choornam,ATRIMED
+71,71.0,Prasaranyadi choornam,ATRIMED
+72,72.0,rosnasapthakam chornam,ATRIMED
+73,73.0,Atrifem Syrup,ATRIMED
+74,74.0,Kottomchukkadi choornam,ATRIMED
+75,75.0,Kalakulalradi choornam,ATRIMED
+76,76.0,Triphala cap,ATRIMED
+77,77.0,Atrisor shampoo,ATRIMED
+78,78.0,Atrisor Moisturizer,ATRIMED
+79,79.0,Super cap.,ATRIMED
+80,80.0,Liver carz,ATRIMED
+81,81.0,Glukostat cap.,ATRIMED
+82,82.0,Femicalm cap.,ATRIMED
+83,83.0,Makardhwaj Rasa Tab.,PUNARVASU
+84,84.0,Brahmi vati,PUNARVASU
+85,85.0,Arjunchhal Ghanvati tab.,PUNARVASU
+86,86.0,Punarnavadi mandoor vati tab.,PUNARVASU
+87,87.0,Swaskuthar rasa tab.,PUNARVASU
+88,88.0,Avipattikar tab.,PUNARVASU
+89,89.0,Gandharva haritaki tab.,PUNARVASU
+90,90.0,Sutshekhar rasa tab.,PUNARVASU
+91,91.0,Chandraprabha vati tab.,PUNARVASU
+92,92.0,Arogyavardhini Gutika tab.,PUNARVASU
+93,93.0,Kaishar guggulu tab.,PUNARVASU
+94,94.0,Divortho tab.,DIVINE
+95,95.0,Divarsha tab.,DIVINE
+96,96.0,TKB tab.,DIVINE
+97,97.0,Divaacid syrup,DIVINE
+98,98.0,Vivtorch tab.,DIVINE
+99,99.0,"Spondigen tab,",DIVINE
+100,100.0,Ovalar cap.,DIVINE
+101,101.0,DivPCOS tab.,DIVINE
+102,102.0,Nectar LIV cap,NECTAR INDIA
+103,103.0,Cyclonec cap,NECTAR INDIA
+104,104.0,Agasthya Rasoyanam,VAIDYARAJ AUSHADHALAYA
+105,105.0,Balajeerakadi Kashayam,VAIDYARAJ AUSHADHALAYA
+106,106.0,Varanadhi kashayam,VAIDYARAJ AUSHADHALAYA
+107,107.0,Kalyana Gulam,VAIDYARAJ AUSHADHALAYA
+108,108.0,Psorasiddh cream,SKM
+109,109.0,Mahatikta Ghritam cap.,SKM
+110,110.0,Pinda tailam,SKM
+111,111.0,Phalasorpis saptavarti cap.,SKM
+112,112.0,Ksheerabala cap.,SKM
+113,113.0,Psorasiddh soap,SKM
+114,114.0,Manasmitra Vatakam cap.,SKM
+115,115.0,Bonita syrup,LAMAR
+116,116.0,Phyt fluz syrup,LAMAR
+117,117.0,Amlahoory tab.,LAMAR
+118,118.0,Galcure tab.,LAMAR
+119,119.0,Zyquil tab.,LAMAR
+120,120.0,X piles ointment,LAMAR
+121,121.0,Femtonic syrup,LAMAR
+122,122.0,Angen grow serum,JRK
+123,123.0,Psorolin B ointment,JRK
+124,124.0,Anti fungal cream,JRK
+125,125.0,Lippu ointment,JRK
+126,126.0,Lumina shampoo,JRK
+127,127.0,Eve fresh cream,JRK
+128,128.0,Psorolin soap,JRK
+129,129.0,Peau moist lotion,JRK
+130,130.0,Yelathi tab.,JRK
+131,131.0,Nilavembu Kudineer tab.,JRK
+132,132.0,Pesin tab.,JRK
+133,133.0,Verdura Cream,JRK
+134,134.0,Raktastumbak tab,DHOOTPAPESHWAR
+135,135.0,Puhpadhanwa rasa tab.,DHOOTPAPESHWAR
+136,136.0,Abhraloha tab,DHOOTPAPESHWAR
+137,137.0,Chandrakala ras tab,DHOOTPAPESHWAR
+138,138.0,Kutaja Panpati vati,DHOOTPAPESHWAR
+139,139.0,Pittashekhar rasa tab.,DHOOTPAPESHWAR
+140,140.0,Stree Vyadhihari rasa tab.,DHOOTPAPESHWAR
+141,141.0,Beejpushti rasa tab.,DHOOTPAPESHWAR
+142,142.0,Tapyadi loha tab.,DHOOTPAPESHWAR
+143,143.0,Abhragarbha pottali,DHOOTPAPESHWAR
+144,144.0,Debaskin oil,DHANVANTRI
+145,145.0,Rumom oil,DHANVANTRI
+146,146.0,Gunjadi taila,DHANVANTRI
+147,147.0,Rumom cap.,DHANVANTRI
+148,148.0,Jawahar Mohra Ras tab.,DHANVANTRI
+149,149.0,Vasant Kusumakar rus tab.,DHANVANTRI
+150,150.0,Garbhdharini vati tab.,DHANVANTRI
+151,151.0,Glyoherb granules,DHANVANTRI
+152,152.0,Gynarim tab.,DHANVANTRI
+153,153.0,Yaad granules,DHANVANTRI
+154,154.0,rimzyme syrup,DHANVANTRI
+155,155.0,Goji syrup,DHANVANTRI
+156,156.0,Panchatikta Ghrita guggulu tab.,DHANVANTRI
+157,157.0,Maha Manjisthadi ghanvati tab.,DHANVANTRI
+158,158.0,Troyodshang guggulu tab.,DHANVANTRI
+159,159.0,Keshvardhini tab.,DHANVANTRI
+160,160.0,Smrutisagar ras tab.,DHANVANTRI
+161,161.0,Sukesha hair oil,DHANVANTRI
+162,162.0,Debaskin cap.,DHANVANTRI
+163,163.0,Cidity syrup,DHANVANTRI
+164,164.0,Chandraprabhavati tab.,DHANVANTRI
+165,165.0,Kamdudha ras tab.,DHANVANTRI
+166,166.0,Athigon syrup,AIMIL
+167,167.0,Purodil ointment,AIMIL
+168,168.0,Neeri KFT syrup,AIMIL
+169,169.0,Winsoria oil,KERALA AYURVEDA
+170,170.0,Sinactil oil,KERALA AYURVEDA
+171,171.0,KM lepam,KERALA AYURVEDA
+172,172.0,Renoget tab.,KERALA AYURVEDA
+173,173.0,neelibrigadi keram oil,KERALA AYURVEDA
+174,174.0,Evakulp tab.,KERALA AYURVEDA
+175,175.0,I Cleur 10D tab.,KERALA AYURVEDA
+176,176.0,Cervigest cap.,KERALA AYURVEDA
+177,177.0,GT capsules,KERALA AYURVEDA
+178,178.0,Hamsapadadi kwath,KERALA AYURVEDA
+179,179.0,Promoctil cap.,KERALA AYURVEDA
+180,180.0,Ostoact tab,KERALA AYURVEDA
+181,181.0,Mcnovin tab.,KERALA AYURVEDA
+182,182.0,Remogest tab.,KERALA AYURVEDA
+183,183.0,Aknol skin cream,PHARMACON
+184,184.0,Paci-5 syrup,PHARMACON
+185,185.0,Kumkumadi lepam,PHARMACON
+186,186.0,Naser nasal drops,PHARMACON
+187,187.0,Rumarub ointment,PHARMACON
+188,188.0,Healit ointment,PHARMACON
+189,189.0,Sclerobrium liquid,PHARMACON
+190,190.0,Kumkumadi thailam,PHARMACON
+191,191.0,Urary cap,HEALTH RY PHARMACEUTICALS
+192,192.0,Pilory cap,HEALTH RY PHARMACEUTICALS
+193,193.0,Ry Multi tab,HEALTH RY PHARMACEUTICALS
+194,194.0,Ovalory tab,HEALTH RY PHARMACEUTICALS
+195,195.0,Fermy syrup,HEALTH RY PHARMACEUTICALS
+196,196.0,Nartana massage oii,NISARG
+197,197.0,Redusone cap,NISARG
+198,198.0,Livosone cap,NISARG
+199,199.0,Menodim cap,NISARG
+200,200.0,Boneade cap,NISARG
+201,201.0,Urge cap,NISARG
+202,202.0,Soruzema massage oil,NISARG
+203,203.0,Nurosmart yrup,NISARG
+204,204.0,Respirode tab,NISARG
+205,205.0,Sonolax tab.,NISARG
+206,206.0,Tulsi tab.,NISARG
+207,207.0,Amla tab,NISARG
+208,208.0,Haridra tab.,NISARG
+209,209.0,Yahtimadhu tab.,NISARG
+210,210.0,Ahwagandha tab.,NISARG
+211,211.0,Inflasone tab.,NISARG
+212,212.0,Curcuma plus cap.,NISARG
+213,213.0,Vidarikand churna,DISHANT
+214,214.0,Swadiht virechan tab.,DISHANT
+215,215.0,Yashtivadhu Ghanvati peels,DISHANT
+216,216.0,Hair pack powder,DISHANT
+217,217.0,Niramay powder ,DISHANT
+218,218.0,Shalavari churna,DISHANT
+219,219.0,Gokshur churna,DISHANT
+220,220.0,chyawanrash avleh,DISHANT
+221,221.0,Sitopaladi tab,DISHANT
+222,222.0,Mahayograj guggulu,DISHANT
+223,223.0,Dahsmool kwath,DISHANT
+224,224.0,Bhunimbadi kwath,DISHANT
+225,225.0,Amalaki Tab.,DISHANT
+226,226.0,Saptamrut Loh Tab.,DISHANT
+227,227.0,Haridrakhand Granule,DISHANT
+228,228.0,Amalaki Capsule,DISHANT
+229,229.0,Pochak urja churna,SHREE URJA
+230,230.0,Urja sutra tab.,SHREE URJA
+231,231.0,Med urja tab.,SHREE URJA
+232,232.0,Thyro urja tab.,SHREE URJA
+233,233.0,Urja suddhi cream,SHREE URJA
+234,234.0,Urja saar syrup,SHREE URJA
+235,235.0,Urja nerve syrup,SHREE URJA
+236,236.0,Ashmatak syrup,SHREE URJA
+237,237.0,Thyro urja kwath,SHREE URJA
+238,238.0,Melatonin cap.,VESCA(AARAMBH)
+239,239.0,Vitamin D3 cap,VESCA(AARAMBH)
+240,240.0,Glutathion cap,VESCA(AARAMBH)
+241,241.0,Multivitamin for women cap.,VESCA(AARAMBH)
+242,242.0,Biotin cap,VESCA(AARAMBH)
+243,243.0,Calcium citrate,VESCA(AARAMBH)
+244,244.0,Uricg ON tab.,SHREYAS
+245,245.0,Glo ON tab.,SHREYAS
+246,246.0,Flow ON tab.,SHREYAS
+247,247.0,Merudand vati tab.,SHREYAS
+248,248.0,Coryz ON tab.,SHREYAS
+249,249.0,Vericon oil,SHREYAS
+250,250.0,Allergon oil,SHREYAS
+251,251.0,Keshya oil,SHREYAS
+252,252.0,Cal ON tab.,SHREYAS
+253,253.0,Thirosat tab.,SHREYAS
+254,254.0,Dermal ON tab.,SHREYAS
+255,255.0,Tend ON tab.,SHREYAS
+256,256.0,Rumurup oil,SHIVED
+257,257.0,Pilomrit tab.,SHIVED
+258,258.0,Oberap cap.,SHIVED
+259,259.0,Misnna tab.,SHIVED
+260,260.0,Jaswand oil,ADVAIT
+261,261.0,Nagarjunabhra Ras tab.,ADVAIT
+262,262.0,Hemofine tab.,ADVAIT
+263,263.0,Thyronull tab.,ADVAIT
+264,264.0,Kuberaksha vati tab.,ADVAIT
+265,265.0,Eladi vati tab.,ADVAIT
+266,266.0,Kankayan vati tab.,ADVAIT
+267,267.0,Shatavari Ghan vati tab.,ADVAIT
+268,268.0,Kombadrakhi guggul vati tab.,ADVAIT
+269,269.0,Kanchanar ghan vati tab.,ADVAIT
+270,270.0,Auna tab.,AUSHADI BHAVAN
+271,271.0,Jatyadi tab.,AUSHADI BHAVAN
+272,272.0,Panchendriya Nasal drops,AUSHADI BHAVAN
+273,273.0,Nirgundi ghana tab.,CHAITANYA
+274,274.0,Krumileuthar ras tab.,CHAITANYA
+275,275.0,Paktapachak ghana tab.,CHAITANYA
+276,276.0,Kanchanar guggul tab.,CHAITANYA
+277,277.0,Majjasthi pachak ghana tab.,CHAITANYA
+278,278.0,Maharasnadikashay ghana tab.,CHAITANYA
+279,279.0,Raspochak ghan tab.,CHAITANYA
+280,280.0,Punarnava ghan tab.,CHAITANYA
+281,281.0,Manspachak ghan tab.,CHAITANYA
+282,282.0,Rumaset cap,SHAIVYA
+283,283.0,Bescumin cap,SHAIVYA
+284,284.0,Septowin cap,SHAIVYA
+285,285.0,Rumaset gold cap.,SHAIVYA
+286,286.0,Bescumin fork syrup,SHAIVYA
+287,287.0,PH Flsh cap,SHAIVYA
+288,288.0,Zingmax cap,SHAIVYA
+289,289.0,Bormheal,SHAIVYA
+290,290.0,Enarvin tab.,NRIGHT
+291,291.0,Migreast tab.,NRIGHT
+292,292.0,Enarvin oil,NRIGHT
+293,293.0,Ogestirn lehyam,NRIGHT
+294,294.0,Eastacad tab.,NRIGHT
+295,295.0,Coswas choornam,NRIGHT
+296,296.0,Grab cap.,GREEN REMEDIES
+297,297.0,Nuro XT cap,GREEN REMEDIES
+298,298.0,Spiner tab.,GREEN REMEDIES
+299,299.0,Zincosule cap,SOMETIC
+300,300.0,My D3 cap,SOMETIC
+301,301.0,My D3 Magnesium,SOMETIC
+302,302.0,Primogest 9 Tab.,SOMETIC
+303,303.0,Shaddharana DS tab,AVN
+304,304.0,Gokshuradigulugulu DS,AVN
+305,305.0,Arthorab liniment,AVN
+306,306.0,Kokiluksham Kashayam tab.,AVN
+307,307.0,Maharajaprasarini tailam cap.,AVN
+308,308.0,Gandha tailam cap.,AVN
+309,309.0,Dhanvantaram (101) cap,AVN
+310,310.0,Kaisharaguggulu DS tab,AVN
+311,311.0,Amavatari tab,AVN
+312,312.0,Painflavem tab.,AVN
+313,313.0,Burcalvin cap,AVN
+314,314.0,Amrutagulgulu DS tab.,AVN
+315,315.0,Guluchyadi kashayam tab.,AVN
+316,316.0,Potolakaturohiniyadi kashayam tab.,AVN
+317,317.0,Manjisthadi Kashayam tab.,AVN
+318,318.0,Zeotone plus cap,AVN
+319,319.0,Varandi kashayam tab,AVN
+320,320.0,Amrutotaram tab.,AVN
+321,321.0,Cardastab tab.,NAGARJUNA
+322,322.0,Siva gutika,NAGARJUNA
+323,323.0,Rheumat,NAGARJUNA
+324,324.0,Bruhat vatchintamani Ras tab.,NAGARJUNA
+325,325.0,Abhyarishta,General
+326,326.0,Vriddhiwadhika vati tab.,General
+327,327.0,Trimas tab.,General
+328,328.0,Ashtamas tab,General
+329,329.0,Navmas tab.,General
+330,330.0,Amla t shikakai,General
+331,331.0,Neem lotion,General
+332,332.0,Multinova cap,General
+333,333.0,Easycally churna,General
+334,334.0,Tulsi drop,General
+335,335.0,Ovarhythm,General
+336,336.0,Duimas tab,General
+337,337.0,Pramas tab.,General
+338,338.0,Orthocare cap,General
+339,339.0,Triphala guggul (R&B),General
+340,340.0,Rakt Pachak (R&B),General
+341,341.0,Pigmentation cream,General
+342,342.0,Sahacharadi tailam,General
+343,343.0,Vathar oil,General
+344,344.0,Shikakai oil,General
+345,345.0,Straightening hair oil,General
+346,346.0,Conditioner shampoo,General
+347,347.0,Shyam sunder kesh tel,General
+348,348.0,Special hair oil,General
+349,349.0,Alovera D shampoo,General
+350,350.0,Hair oil,General
+351,351.0,Abhyong tel,General
+352,352.0,Prakash cough cold syrup,General
+353,353.0,Arbonil Tab.,R&B
+354,354.0,Migraina Tab.,R&B
+355,355.0,Bavasir Tab.,R&B
+356,356.0,Manohar Tab.,R&B
+357,357.0,Bavasir Oil,R&B
+358,358.0,Palsimed Cap.,R&B
+359,359.0,Gritivat Churan,R&B
+360,360.0,Keshvardhini(ASTHANG),ASTHANG
+361,,Height and weight,ATRIMED
